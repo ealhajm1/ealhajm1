@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="./terminal.svg" alt="terminal intro" width="720">
 
-<!--
-**ealhajm1/ealhajm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm doing right now
 
-Here are some ideas to get you started:
+**Machine Learning Research Intern @ Swarthmore College**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Researching graph-structured data using Python, PyTorch, and scikit-learn. I build experimental pipelines, train and evaluate models, and study how machine learning can identify structural patterns in graphs.
+
+**Data Structures Teaching Assistant @ Swarthmore College**
+
+Mentoring students in C++, debugging, algorithms, and core data structures through weekly labs and office hours.
+
+**Building TradeLab**
+
+Developing a full-stack stock-market simulation platform with virtual trading, historical market replay, portfolio tracking, and personalized feedback on risk and trading behavior.
+
+**Student @ Swarthmore College** — Computer Science and Mathematics, class of 2028.
+
+---
+
+Outside of work: mathematical problem-solving, photography, football, and a movie watchlist that keeps growing faster than I can finish it.
