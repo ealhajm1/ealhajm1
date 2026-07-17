@@ -1,0 +1,282 @@
+<svg
+  width="1100"
+  height="650"
+  viewBox="0 0 1100 650"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Terminal introduction for Esmaeil Abdan</title>
+
+  <desc id="description">
+    Esmaeil Abdan is a computer science and mathematics student at
+    Swarthmore College interested in machine learning, graph analysis,
+    algorithms, and full-stack software engineering.
+  </desc>
+
+  <!-- Terminal background -->
+  <rect
+    x="1"
+    y="1"
+    width="1098"
+    height="648"
+    rx="18"
+    fill="#0D1117"
+    stroke="#30363D"
+    stroke-width="2"
+  />
+
+  <!-- Header -->
+  <path
+    d="M1 19C1 9.05887 9.05887 1 19 1H1081C1090.94 1 1099 9.05887 1099 19V66H1V19Z"
+    fill="#161B22"
+  />
+
+  <line
+    x1="1"
+    y1="66"
+    x2="1099"
+    y2="66"
+    stroke="#30363D"
+    stroke-width="2"
+  />
+
+  <!-- Window controls -->
+  <circle cx="32" cy="33" r="9" fill="#FF5F57"/>
+  <circle cx="61" cy="33" r="9" fill="#FEBC2E"/>
+  <circle cx="90" cy="33" r="9" fill="#28C840"/>
+
+  <!-- Terminal title -->
+  <text
+    x="550"
+    y="41"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    esmaeil@swarthmore: ~
+  </text>
+
+  <!-- Who am I -->
+  <text
+    x="42"
+    y="112"
+    font-size="22"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    <tspan fill="#3FB950">$</tspan>
+    <tspan fill="#F0F6FC"> whoami</tspan>
+  </text>
+
+  <text
+    x="42"
+    y="151"
+    fill="#F0F6FC"
+    font-size="23"
+    font-weight="600"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    Esmaeil Abdan
+  </text>
+
+  <text
+    x="42"
+    y="184"
+    fill="#8B949E"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    Computer Science + Mathematics @ Swarthmore College
+  </text>
+
+  <!-- Interests -->
+  <text
+    x="42"
+    y="237"
+    font-size="22"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    <tspan fill="#3FB950">$</tspan>
+    <tspan fill="#F0F6FC"> cat interests.txt</tspan>
+  </text>
+
+  <text
+    x="42"
+    y="276"
+    fill="#79C0FF"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    machine learning · graph analysis · algorithms · full-stack engineering
+  </text>
+
+  <!-- Current work -->
+  <text
+    x="42"
+    y="330"
+    font-size="22"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    <tspan fill="#3FB950">$</tspan>
+    <tspan fill="#F0F6FC"> ps aux | grep current</tspan>
+  </text>
+
+  <!-- Research -->
+  <text
+    x="42"
+    y="374"
+    fill="#58A6FF"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    research
+  </text>
+
+  <text
+    x="190"
+    y="374"
+    fill="#3FB950"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    running
+  </text>
+
+  <text
+    x="330"
+    y="374"
+    fill="#C9D1D9"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    machine learning on graph-structured data
+  </text>
+
+  <!-- Teaching -->
+  <text
+    x="42"
+    y="411"
+    fill="#58A6FF"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    teaching
+  </text>
+
+  <text
+    x="190"
+    y="411"
+    fill="#3FB950"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    running
+  </text>
+
+  <text
+    x="330"
+    y="411"
+    fill="#C9D1D9"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    C++ · data structures · algorithms
+  </text>
+
+  <!-- TradeLab -->
+  <text
+    x="42"
+    y="448"
+    fill="#58A6FF"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    tradelab
+  </text>
+
+  <text
+    x="190"
+    y="448"
+    fill="#3FB950"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    building
+  </text>
+
+  <text
+    x="330"
+    y="448"
+    fill="#C9D1D9"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    stock simulation + personalized risk feedback
+  </text>
+
+  <!-- AirPool -->
+  <text
+    x="42"
+    y="485"
+    fill="#58A6FF"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    airpool
+  </text>
+
+  <text
+    x="190"
+    y="485"
+    fill="#3FB950"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    contributing
+  </text>
+
+  <text
+    x="330"
+    y="485"
+    fill="#C9D1D9"
+    font-size="19"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    campus carpool coordination platform
+  </text>
+
+  <!-- Mindset -->
+  <text
+    x="42"
+    y="545"
+    font-size="22"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    <tspan fill="#3FB950">$</tspan>
+    <tspan fill="#F0F6FC"> echo $MINDSET</tspan>
+  </text>
+
+  <text
+    x="42"
+    y="589"
+    fill="#D2A8FF"
+    font-size="20"
+    font-weight="600"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    If I care enough to learn something,
+  </text>
+
+  <text
+    x="42"
+    y="621"
+    fill="#D2A8FF"
+    font-size="20"
+    font-weight="600"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+  >
+    I'll find a way to figure it out.
+  </text>
+</svg>
