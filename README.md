@@ -1,4 +1,4 @@
-<img src="./terminal-animated.svg?v=2" alt="Animated terminal introduction" width="720">
+<img src="./terminal.svg" alt="Animated terminal introduction" width="720">
 
 ## What I'm doing right now
 
