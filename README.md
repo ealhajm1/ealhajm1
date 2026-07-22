@@ -18,4 +18,4 @@ Developing a full-stack stock-market simulation platform with virtual trading, h
 
 ---
 
-Outside of work: mathematical problem-solving, photography, football, and a movie watchlist that keeps growing faster than I can finish it.
+Outside of work: Ice Hockey, photography and a movie watchlist that keeps growing faster than I can finish it.
